@@ -1,0 +1,88 @@
+{
+    "locaties": [
+      {
+        "id": 1,
+        "naam": "Harun Koçak",
+        "adres": "Appelstraat 10, Antwerpen"
+      },
+      {
+        "id": 2,
+        "naam": "Mo Chentouf",
+        "adres": "Peerstraat 6, Deurne"
+      },
+      {
+        "id": 3,
+        "naam": "Eccle Matondo",
+        "adres": "Banaanstraat 157, Aartselaar"
+      }
+    ],
+    "iot_apparaten": [
+      {
+        "id": 1,
+        "naam": "Slimme Thermostaat",
+        "status": "Actief",
+        "locatie_id": 1
+      },
+      {
+        "id": 2,
+        "naam": "Slimme Thermostaat",
+        "status": "Actief",
+        "locatie_id": 1
+      },
+      {
+        "id": 3,
+        "naam": "Slimme Thermostaat",
+        "status": "Actief",
+        "locatie_id": 1
+      },
+      {
+        "id": 4,
+        "naam": "Slimme Luchtzuiveraar",
+        "status": "Actief",
+        "locatie_id": 1
+      },
+      {
+        "id": 5,
+        "naam": "Slimme Luchtzuiveraar",
+        "status": "Inactief",
+        "locatie_id": 3
+      },
+      {
+        "id": 6,
+        "naam": "Slimme Ventilator",
+        "status": "Actief",
+        "locatie_id": 2
+      },
+      {
+        "id": 7,
+        "naam": "Slimme Ventilator",
+        "status": "Actief",
+        "locatie_id": 3
+      },
+      {
+        "id": 8,
+        "naam": "Slimme Veiligheidscamera",
+        "status": "Actief",
+        "locatie_id": 1
+      },
+      {
+        "id": 9,
+        "naam": "Slimme Veiligheidscamera",
+        "status": "Actief",
+        "locatie_id": 3
+      },
+      {
+        "id": 10,
+        "naam": "Slimme Oplaadstation",
+        "status": "Actief",
+        "locatie_id": 3
+      },
+      {
+        "id": 11,
+        "naam": "Slimme Garage Deur",
+        "status": "Inactief",
+        "locatie_id": 2
+      }
+    ]
+  }
+  
